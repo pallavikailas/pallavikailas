@@ -11,7 +11,7 @@ My motto is “less is more” when it comes to coding and exploring the intrica
 
 Apart from coding, I love travelling, music, archery, and stretching.
 
-Please reach out if you want to talk about NLP or cats <3
+Enjoy my repository, and please reach out if you notice anything I can improve on. <3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavikailas&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikailas" /> </p>
 

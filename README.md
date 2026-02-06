@@ -11,8 +11,6 @@ My motto is “less is more” when it comes to coding and exploring the intrica
 
 Apart from coding, I love travelling, music, archery, and stretching.
 
-Enjoy my repository, and please reach out if you notice anything I can improve on or you want to talk tech <3
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavikailas&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikailas" /> </p>
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/pallavikailas)

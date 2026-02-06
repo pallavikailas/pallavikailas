@@ -1,4 +1,5 @@
-### Hi there! <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="25"/>
+<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/b7b68a38-eceb-4d6e-a828-54d0849b42b4" />### Hi there! <img width="466" height="535" alt="Snoopy-Blue-Puffer-Coat_copy-removebg-preview (1)" src="https://github.com/user-attachments/assets/a003e429-9749-49f8-bd54-ceeac1cdf8ff" />
+655a.gif" width="25"/>
 
 
 <img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='310' height='310'>

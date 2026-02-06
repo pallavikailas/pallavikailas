@@ -7,7 +7,7 @@ I'm [**Pallavi**](https://www.linkedin.com/in/pallavikailas/), an aspiring softw
 
 I am an incoming Tech Consultant - AI and Data at [@EY](https://www.ey.com/en_in) & a former SWE intern [@Google](https://www.google.com/)
 
-My motto is “less is more” when it comes to coding. I love investigating the intricacies behind applied Machine Learning and its application through responsible engineering: designing systems that are both responsible in usage and scalable for users. 
+My motto is “less is more” when it comes to coding and exploring the intricacies of applied Machine Learning, and responsible engineering excites me.
 
 Apart from coding, I love travelling, music, archery, and stretching.
 

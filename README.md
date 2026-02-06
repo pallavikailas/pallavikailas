@@ -7,7 +7,11 @@ I'm [**Pallavi**](https://www.linkedin.com/in/pallavikailas/), an aspiring softw
 
 I am an incoming Tech Consultant - AI and Data at [@EY](https://www.ey.com/en_in) & a former SWE intern [@Google](https://www.google.com/)
 
+My motto is “less is more” when it comes to coding. I love investigating the intricacies behind applied Machine Learning and its application through responsible engineering: designing systems that are both responsible in usage and scalable for users. 
+
 Apart from coding, I love travelling, music, archery, and stretching.
+
+Please reach out if you want to talk about NLP or cats <3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavikailas&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikailas" /> </p>
 

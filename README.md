@@ -5,7 +5,7 @@
 
 I'm [**Pallavi**](https://www.linkedin.com/in/pallavikailas/), an aspiring software engineer in ML.
 
-I am an incoming Tech Consultant - AI and Data at [@EY](https://www.ey.com/en_in) & a former SWE intern [@Google](https://www.google.com/)
+I am an incoming Tech Consultant - AI and Data at [@EY](https://www.ey.com/en_in) & a former SWE intern [@Google](https://www.google.com/) on the GCP Database Centre team
 
 My motto is “less is more” when it comes to coding and exploring the intricacies of applied Machine Learning, and responsible engineering excites me.
 

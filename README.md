@@ -3,14 +3,12 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='310' height='310'>
 
-I'm [**Pallavi**](https://www.linkedin.com/in/pallavikailas/), a software engineer, student, creative programmer, and content creator.
+I'm [**Pallavi**](https://www.linkedin.com/in/pallavikailas/), an aspiring software engineer, student, singer, and baking enthusiat.
 
-I am an incoming software engineer at [@Apple](https://www.apple.com/) on Productivity Apps team & Computer Science Student at [@University of Florida](https://www.ufl.edu/).
+I am an incoming tech consultant - data scientist at [@EY](https://www.ey.com/en_in) & a former SWE intern [@Google](https://www.google.com/)
 
 When I am not *programming*, you can find me rock climbing, video editing, drawing pixel art, hiking
 
-#### Follow  my on github and linkedin (^_−)−☆
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinabyte&label=Profile%20views&color=0e75b6&style=flat" alt="tinabyte" /> </p>
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/tinachi1)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/pallavikailas)
